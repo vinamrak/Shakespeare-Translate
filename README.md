@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Final.png">
 </p>
 
-<h2 align="center"> Shakespeare Translate </h2>
+<h2 align="center"> Shakespeare Translate 2</h2>
 
 <p align="center"> 
 Getting Shakespeare into the Modern Era with the magic of NLP.
